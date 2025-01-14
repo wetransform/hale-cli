@@ -90,7 +90,7 @@ dependencies {
   implementation "eu.esdihumboldt.hale:eu.esdihumboldt.hale.io.schematron"
   // replacement for omitted Saxon dependency
   // tested w/ schematron validation in https://github.com/wetransform/exp-schematron/tree/exp/saxon-he
-  implementation 'net.sf.saxon:Saxon-HE:9.9.1-8'
+  implementation 'net.sf.saxon:Saxon-HE:12.5'
 
   /*
    * Other
